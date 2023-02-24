@@ -31,25 +31,25 @@ Pour vous guider dans le choix des balises, des attributs et des valeurs d'attri
 Pour chacune des pages ci-dessous, les textes alternatifs sont-ils adéquats ?Commenter votre observation. Pourrait-on faire mieux ? Donnez un exemple de ce que vous proposeriez.
 
 - https://www.sail.ca/fr/chaussures/junior/multi-sport-et-plein-air 
------
------
------
-[capture-écran]()
+
+La majorité des textes alternatifs sont adéquats, cependant le log n'est pas adéquats. On pourrait préciser que c'est un logo et aussi préciser le fait que c'est un lien qui nous amène à la page principale.
+
+[capture-écran](images/capture_ecran/sail_plein_air.png)
 - https://amzn.to/2NnbKPN 
------
------
------
-[capture-écran]()
+
+Les textes alternatifs sont adéquats, puisqu'ils décrivent très bien les éléments de la page web.
+
+[capture-écran](images/capture_ecran/amazon.png)
 - https://www.lesoleil.com/  
------
------
------
-[capture-écran]()
+
+Les textes alternatifs sont majoritairement inadéquats. Ils expliquent mal ce que les images sont, parfois ils répètent même ce que le textes accoter disent, et ils ne précisent pas que les images cliquables redirigent vers une autre page. 
+
+[capture-écran](images/capture_ecran/rad.png)
 - https://www.rad.ca/  
------
------
------
-[capture-écran]()
+
+Le site n'a pas de textes alternatifs, mais a des aria-labels qui décrivent très bien les images. Parfois, ils répètent déja ce que les textes d'accoter 
+
+[capture-écran](images/capture_ecran/le_soleil.png)
 
 Astuce  
 Parfois, l’affichage des alt ne donnent pas un résultat facile à lire… lorsque cela se produit, faites un clic droit de la souris et choisir inspecter pour positionner l’inspecteur de DOM sur le HTML de l’image.
@@ -63,9 +63,9 @@ Pour chaque problème de contraste identifié,
 documenter le problème par une capture-écran incluant dans son cadre, la zone fautive à gauche et à droite, les résultats détaillés de l’outil, tel que démontré dans l’exemple ci-dessous.
 
 Sauvegarder les captures dans le dossier images. Compléter les liens ci-dessous:
-- [Contraste insuffisant 1](images/...)
-- [Contraste insuffisant 2](images/...)
-- [Contraste insuffisant 3](images/...)
+- [Contraste insuffisant 1](images/capture_ecran/contraste_1.png)
+- [Contraste insuffisant 2](images/capture_ecran/contraste_2.png)
+- [Contraste insuffisant 3](images/capture_ecran/contraste_3.png)
 
 ### 3. Structurer avec les h1-h6 une table des matières
 
