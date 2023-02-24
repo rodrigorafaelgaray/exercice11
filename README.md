@@ -1,8 +1,8 @@
 # Exercice d'accessibilité des contenus
 
 ## Équipe
-- Prénom nom
-- Prénom nom
+- Rodrigo Garay
+- Raphaël Mercier
 
 ## Objectifs
 - Expérimenter le versionnage de fichiers avec GIT
