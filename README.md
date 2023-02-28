@@ -82,9 +82,7 @@ __Tutoriel sur les formulaires du w3c__
 
 Réponse : 
 
-----
-----
-----
+La table des matières du document est parfaitement réalisé. le H1 designe le sujet principale de la page. Les H2 sont des sous-titre du sujet principale et la hierarchie des titres respectent le fulx normal de la page.
 
 __L’affaire Savtchenko__ 
 [Article](images/3-table-des-matieres_h1-h6/3-1/article-savtchenko.pdf)  
@@ -92,9 +90,7 @@ __L’affaire Savtchenko__
   
 Réponse : 
 
-----
-----
-----
+La table des matières n'est pas très adéquate. Il y a pas de h1 qui désigne le sujet de la page, et le restes des titres sont que des h2 tous au même niveau et un seul h1 qui existe après le h1.
 
 
 #### 3.2 S'exercer à bien structurer
@@ -103,7 +99,7 @@ Réponse :
 - Ajouter un calque de blanc à 50% de transparence
 - Dans un 3e calque, par-dessus, identifiez les titres et leurs niveaux (h1-h6) de manière voyante (couleur rouge et font-size suffisant)
 - Sauvegarder au format .psd ou .png dans le même dossier.
-- [Relier ce fichier-réponse ici]()
+- [Relier ce fichier-réponse ici](images/3-table-des-matieres_h1-h6/3-2/concevoir-un-design-sans-la-couleur.png)
 
 ### 4. Baliser un tableau de données pour qu’il soit accessible
 
