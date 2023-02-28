@@ -1,0 +1,28 @@
+table{
+    width: 100%;
+    margin-top: 2em;
+    font-size: 0.9em;
+}
+
+table, th, td {
+    border: 1px solid black;
+    padding: .5em;
+}
+
+table > caption{
+    color: red;
+    font-size: 1.5em;
+    font-style: italic;
+    margin-bottom: 1em;
+    text-align: left;
+}
+
+table th{
+    background-color: grey;
+    color: white;
+}
+
+.orange{
+    background-color: rgb(227, 61, 0);
+    color: white;
+}
